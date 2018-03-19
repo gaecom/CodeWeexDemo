@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (4.7.0)
+  - Kingfisher (4.6.3)
+  - WeexSDK (0.18.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher
+  - WeexSDK
+
+SPEC CHECKSUMS:
+  Alamofire: 907e0a98eb68cdb7f9d1f541a563d6ac5dc77b25
+  Kingfisher: 98e6d5b5e807645743e8ed5ececd25d688d38452
+  WeexSDK: ac56f255ce9a48e93ebc2e003956ab20da33321d
+
+PODFILE CHECKSUM: fb4aa03ce60aa31e054bbef794bf5133c62bca15
+
+COCOAPODS: 1.4.0
